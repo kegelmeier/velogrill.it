@@ -11,7 +11,7 @@ body, html {
     height: 100%;
 }
 
-svg {
+img {
     width: 50%;  /* 50% of the viewport width */
     height: auto; /* Maintains the aspect ratio */
 }
