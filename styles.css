@@ -1,0 +1,17 @@
+body, html {
+    margin: 0;
+    height: 100%;
+    background-color: red;
+}
+
+.svg-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+
+svg {
+    width: 50%;  /* 50% of the viewport width */
+    height: auto; /* Maintains the aspect ratio */
+}
